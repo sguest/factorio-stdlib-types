@@ -1,0 +1,12 @@
+{
+  "name": "@types/factorio-stdlib",
+  "version": "0.0.1",
+  "description": "Typescript declarations for factorio-stdlib",
+  "main": "index.d.ts",
+  "repository": "https://github.com/sguest/factorio-stdlib-types.git",
+  "author": "Spencer Guest",
+  "license": "MIT",
+  "dependencies": {
+    "@types/factorio": "../factorio-types/types-factorio-0.0.1.tgz"
+  }
+}
